@@ -8,6 +8,7 @@ cin>>savings;
 
 if(savings>5000){
     cout<<"Go with Neha"<<endl;
+    cout<<"kk"
 }
 else if(savings>2000){
     cout<<"Go with Rashmi"<<endl;
