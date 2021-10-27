@@ -15,7 +15,7 @@ else if(savings>2000){
 else if(savings < 2000){
     cout<<"Go with friends"<<endl;
 }
-else{
+else {
     cout<<"go Alone"<<endl;
 }
 
