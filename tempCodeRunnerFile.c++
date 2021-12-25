@@ -1,4 +1,4 @@
-// #include<iostream>
+#include<iostream>
 // using namespace std;
 
 // int main(){
@@ -34,20 +34,3 @@
 //         pocketMoney = pocketMoney - 300;
 //     }
 //     }
-// }
-#include<iostream>
-using namespace std;
-
-int main(){
-    cout<<"*"<<endl;
-    cout<<"**"<<endl;
-    cout<<"***"<<endl;
-    cout<<"****"<<endl;
-    cout<<"*****"<<endl;
-    cout<<"******"<<endl;
-    cout<<"*******"<<endl;
-    cout<<"********"<<endl;
-    cout<<"*********"<<endl;
-    cout<<"**********"<<endl;
-
-}
